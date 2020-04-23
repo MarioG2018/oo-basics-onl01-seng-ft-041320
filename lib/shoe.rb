@@ -7,6 +7,8 @@ class Shoe
   
   def cobble(brand,condition="new")
     puts "that the shoe has been repaired"
+    @brand
+    @condition
   end
   
 end
