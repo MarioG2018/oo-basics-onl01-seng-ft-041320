@@ -6,6 +6,8 @@ class Shoe
   end
   
   def cobble(brand)
-    puts ""
+    puts "that the shoe has been repaired"
+    condition="new"
+  end
   
 end
